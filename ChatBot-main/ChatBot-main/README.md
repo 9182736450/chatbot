@@ -1,5 +1,4 @@
 # ChatBot
-This is the updated version of my previous release
 Chatbot is a simple bot build using java,it takes the source from a file named source.txt
 the file should be in the format of Questions_answers.
 Example Format :
